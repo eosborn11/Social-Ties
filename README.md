@@ -1,2 +1,2 @@
 # Social-Ties
-A word typing game inspired by social connection 
+A word typing game inspired by social and diverse connectivity
